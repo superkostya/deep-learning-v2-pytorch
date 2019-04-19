@@ -1,1 +1,4 @@
 Download the text8.zip file as per the instructions in the exercise notebooks. Extract that data in this directory so that you get data/text8.
+
+KB: Here is the link:
+https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bbe6499_text8/text8.zip
