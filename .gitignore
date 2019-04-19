@@ -2,5 +2,6 @@
 *.jpeg
 *.jpg
 *.zip
+*.pt
 __pycache__/
 .DS_Store
